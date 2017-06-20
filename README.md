@@ -3,9 +3,9 @@ This project is concerned of CLI(Command Line Interface) Control System for a Li
 
 The default username & password is as follows:
 
-username = root
+username = root (Case-sensitive)
 
-password = redhat
+password = redhat (Case-sensitive)
 
 First of all run the login.py file in your computer
 
