@@ -5,10 +5,10 @@ import time
 
 print("\t\t\n\n\n\n")
 os.system("tput setaf 3")
-print "\t\t\t Directory task related Terminal"
+print("\t\t\t Directory task related Terminal")
 os.system("tput setaf 0")
-print "\t\t\t!!**!!**!!**!!**!!**!!**!!**!!"
-print " \t\t\t\t\t\t"
+print("\t\t\t!!**!!**!!**!!**!!**!!**!!**!!")
+print(" \t\t\t\t\t\t")
 os.system("tput setaf 0")
 print"""
 Press  1: To Create a Directory
