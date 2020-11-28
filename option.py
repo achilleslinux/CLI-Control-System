@@ -4,14 +4,14 @@ import time
 import os
 print("\t\t\t\t\n\n\n")
 os.system("tput setaf 1")
-print"\t\t\tWelcome To  Linux  System Terminal"
-print"\t\t\t*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!"
+print("\t\t\tWelcome To  Linux  System Terminal")
+print("\t\t\t*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!")
 
 print "\t\t\t\t\t\t\t\t"
 os.system("tput setaf 0")
 
 print("\t\t\t\n")
-print"""
+print("""
 Press  1: To Perform Commands Related To Login User
 Press  2: To Perform Commands Related To File
 Press  3: To Perform Commands Related To Directory
@@ -23,7 +23,7 @@ Press  8: To Perform Commands Related To Usefull command keyword
 Press  9: To View Servers
 Press 10: Recommended- DEVELOPERS only!!!
 Press 11: To exit the system
-"""
+""")
 os.system("tput setaf 5")
 f=raw_input("Press any key to perform tasks : ")
 if int(f)==1:
